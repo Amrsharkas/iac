@@ -64,12 +64,34 @@
 
 		<!-- Content
 		============================================= -->
-		<section id="content">
+		<section id="content" class="contact-page">
 			
 			<div id="mapDiv" style="width: 100%; height:400px; border-top: 4px solid #f18052; border-bottom: 4px solid #000;"></div>
 		<div><div class="container">			
 
-							
+							<h2 class="mb-0">iac Headquarter</h2>
+
+
+                    <ul class="list list-icons mt-4 mb-4 ">
+                        <li><i class="icon-pin icons"> </i><strong> <i class="fas fa-map-marker"
+                                                                       style="
+    font-size:  20px;
+    margin-right: 10px !important;
+    color: #f05742;
+"></i>Address:</strong> <br/>XYZ INTERIORS LLC.<br/> Mussaffah M32,<br/> Opposite to ST. Paul Curch <br/> PO Box: 135128, Abu Dhabi, UAE.
+                        </li>
+                        <li><i class="icon-call-end icons "> </i><strong><i class="fas fa-phone-volume" style="
+    font-size:  20px;
+    margin-right: 10px;
+    color: #f05742;
+"></i>Phone:</strong> <br/>+971 2 621 1130
+                        </li>
+                        <li><i class="icon-envelope icons "></i><strong><i class="fas fa-envelope" style="
+    font-size:  20px;
+    margin-right: 10px;
+    color: #f05742;
+"></i>Email:</strong> <br/><a href="mailto:info@iac-management.com"> info@iac-management.com</a></li>
+                    </ul>
 
 						</div>
 					

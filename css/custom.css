@@ -1,11 +1,10 @@
-/* ----------------------------------------------------------------
-	Custom CSS
-
-	Add all your Custom Styled CSS here for New Styles or
-	Overwriting Default Theme Styles for Better Handling Updates
------------------------------------------------------------------*/
-
-
-.button.button-full{
-	background-color:#929eaa !important;
+.contact-page h2{
+	margin-top:50px;
+}
+.contact-page ul,.contact-page li{
+	text-decoration:none !important;
+	list-style: none !important;
+}
+.contact-page strong{
+	font-size: 22px !important;
 }

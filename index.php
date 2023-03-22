@@ -136,9 +136,9 @@ We are organized, goal-oriented professionals who use passion, creativity, and c
 
 </div>
 </div>
-<a href="#" class="button button-3d border-bottom-0 button-full text-center text-end mb-6 fw-light font-primary" style="font-size: 26px;">
+<a href="#" class="button button-3d border-bottom-0 button-full text-center text-end mb-6 fw-light font-primary" style="font-size: 26px; background-color:#6c757d !important;">
 					<div class="container">
-Our Dedicated Team					</div>
+Founders					</div>
 
 				</a>		<div><div class="container">			
 
@@ -150,7 +150,7 @@ Our Dedicated Team					</div>
 											<img src="demos/construction/images/team/1.jpg" alt="Saher Abou Elnoor">
 										</div>
 										<div class="team-desc">
-											<div class="team-title"><a href="#"><h4>Saher Abou Elnoor</h4></a><span>CEO/Co-Founder</span></div>
+											<div class="team-title"><a href="#"><h4>Saher Abou Elnoor</h4></a><span>CEO</span></div>
 										</div>
 									</div>
 								</div>

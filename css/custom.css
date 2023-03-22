@@ -8,3 +8,6 @@
 .contact-page strong{
 	font-size: 22px !important;
 }
+.services .fbox-content p{
+	overflow:hidden;
+}
